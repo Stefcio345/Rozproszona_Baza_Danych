@@ -1,5 +1,5 @@
 # Rozproszona baza danych
-Jest to implementacja rozproszonej bazy danych, projekt na SKJ.
+Jest to implementacja rozproszonej bazy danych, projekt na studia.
 W następnych rozdziałach przedstawiona zostanie infrastruktura bazy, jak korzystać z dołączonych plików,
 w jaki sposób moja implementacja bazy przetwarza żądania od klientów oraz jak działa komunikacja wewnątrz bazy danych.
 
